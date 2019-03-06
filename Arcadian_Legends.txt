@@ -1,0 +1,13 @@
+<center><h3>Arcadian Legends</h2>
+<style type="text/css">
+<!--
+body {
+  background-color: #6D9BC3;
+}-->
+</style>
+</html><img src="http://games.bbslink.net/score.php?door=arcl&type=image" />
+<br>
+<img src="http://games.bbslink.net/score.php?door=arcltody&type=image" />
+<br>
+<img src="http://games.bbslink.net/score.php?door=arclyest&type=image"</center>
+

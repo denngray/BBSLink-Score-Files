@@ -1,0 +1,8 @@
+<center><h3>Fresh Water Fishing</h2><style type="text/css">
+<!--
+body {
+  background-color: #6D9BC3;
+}-->
+</style>
+<img src="http://games.bbslink.net/score.php?door=fish&type=image
+" /></center>

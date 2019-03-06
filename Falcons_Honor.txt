@@ -1,0 +1,11 @@
+<center><h3>Falcon's Honor</h2><style type="text/css">
+<!--
+body {
+  background-color: #6D9BC3;
+}-->
+</style>
+<img src="http://games.bbslink.net/score.php?door=fhontody&type=image" />
+<br>
+<img src="http://games.bbslink.net/score.php?door=fhonyest&type=image" />
+<br>
+</center>

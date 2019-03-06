@@ -1,0 +1,12 @@
+<center><h3>Barren Realms Elite</h2><style type="text/css">
+<!--
+body {
+  background-color: #6D9BC3;
+}-->
+</style>
+<img src="http://games.bbslink.net/score.php?door=bre&type=image" />
+<br>
+<img src="http://games.bbslink.net/score.php?door=bretody&type=image" />
+<br>
+<img src="http://games.bbslink.net/score.php?door=breyest&type=image"
+</center>

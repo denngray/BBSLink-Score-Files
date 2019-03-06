@@ -1,0 +1,9 @@
+<center><h3>MZK L.O.R.D</h2><style type="text/css">
+<!--
+body {
+  background-color: #6D9BC3;
+}-->
+</style>
+<img src="http://games.bbslink.net/score.php?door=mzkl&type=image
+" />
+</center>
