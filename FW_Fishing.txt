@@ -1,4 +1,5 @@
-<center><h3>Fresh Water Fishing</h2><style type="text/css">
+<center><h3>Fresh Water Fishing</h3>
+<style type="text/css">
 <!--
 body {
   background-color: #6D9BC3;
