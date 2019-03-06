@@ -1,4 +1,4 @@
-<center><h3>Arcadian Legends</h2>
+<center><h3>Arcadian Legends</h3>
 <style type="text/css">
 <!--
 body {
