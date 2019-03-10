@@ -1,9 +1,0 @@
-<center><h3>Mega Slots</h2><style type="text/css">
-<!--
-body {
-  background-color: #6D9BC3;
-}-->
-</style>
-<img src="http://games.bbslink.net/score.php?door=mega&type=image
-" />
-</center>
