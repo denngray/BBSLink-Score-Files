@@ -1,0 +1,12 @@
+<center><h3>Falcon's Honor</h3>
+<style type="text/css">
+<!--
+body {
+  background-color: LightGray;
+}-->
+</style>
+<h5>Today's News</h5>
+<img src="http://games.bbslink.net/score.php?door=fhontody&type=image" />
+<br>Yesterday's News</h5>
+<img src="http://games.bbslink.net/score.php?door=fhonyest&type=image" />
+</center>

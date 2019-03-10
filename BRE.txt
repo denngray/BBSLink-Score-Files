@@ -1,0 +1,13 @@
+<center><h3>Barren Realms Elite</h3>
+<style type="text/css">
+<!--
+body {
+  background-color: LightGray;
+}-->
+</style>
+<img src="http://games.bbslink.net/score.php?door=bre&type=image" />
+<h5>Today's News</h5>
+<img src="http://games.bbslink.net/score.php?door=bretody&type=image" />
+<h5>Yesterday's News</h5>
+<img src="http://games.bbslink.net/score.php?door=breyest&type=image"
+</center>

@@ -1,0 +1,19 @@
+<style type="text/css">
+<!--
+body {
+  background-color: LightGray;
+}-->
+</style>
+<center><h3>Usurper</h3>
+<h5>Team Rankings</h5>
+<img src="http://games.bbslink.net/score.php?door=usrptscr&type=image
+" />
+<h5>Player Killers</h5>
+<img src="http://games.bbslink.net/score.php?door=usrppkil&type=image
+" />
+<h5>Monster Killers</h5>
+<img src="http://games.bbslink.net/score.php?door=usrpmkil&type=image
+" />
+<h5>News</h5>
+<img src="http://games.bbslink.net/score.php?door=usrpnews&type=image
+" /></center>
