@@ -2,7 +2,7 @@
 <style type="text/css">
 <!--
 body {
-  background-color: #6D9BC3;
+  background-color: LightGray;
 }-->
 </style><img src="http://games.bbslink.net/score.php?door=assn&type=image
 " /></center>
