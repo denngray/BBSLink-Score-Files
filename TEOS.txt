@@ -1,9 +1,0 @@
-<center><h3>TEOS</h3>
-<style type="text/css">
-<!--
-body {
-  background-color: LightGray;
-}-->
-</style>
-<img src="http://games.bbslink.net/score.php?door=teos&type=image
-" /></center>
