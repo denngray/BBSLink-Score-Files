@@ -1,12 +1,9 @@
-"<!--Falcon's Honor-->"
+"<!--|NO_SIDEBAR:Falcon's Honor-->"
 
 <center> <h2 style="color:yellow;">Falcon's Honor</h2>
 
 <style type="text/css">
-<!--
-body {
-  background-color: #6D9BC3;
-}-->
+
 </style>
 <h4 style="color:white;">Today's News</h4>
 <img src="http://games.bbslink.net/score.php?door=fhontody&type=image" />
